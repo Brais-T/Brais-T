@@ -38,7 +38,7 @@
 
 ---
 
-
+<h2>Lenguajes:</h2> 
   <p align="center">
         <a href="https://github.com/Brais-T/">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brais-T&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
