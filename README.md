@@ -1,4 +1,4 @@
-<h1>👋 Hi there!</h1>
+<h1>👋 Hi there, I'm Brais!</h1>
 
 <p>I'm a student pursuing a <strong>Middle Degree in Microcomputer Systems and Networks</strong>, where I have successfully completed the theoretical part and am currently doing my internship.</p>
 
