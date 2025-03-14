@@ -37,3 +37,23 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
+
+
+  <p align="center">
+        <a href="https://github.com/Brais-T/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brais-T&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          alt="Brais-T :: overall Top Langs " /></a>
+      </p>
+        <p align="center">
+          <a href="https://github.com/Brais-T/">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1999azzar&theme=gruvbox&layout=compact&hide_border=true"
+          alt="Brais-T :: Top Langs by repo" />
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1999azzar&theme=gruvbox&layout=compact&hide_border=true"
+          alt="Brais-T :: Top Langs by commit" />
+          </a>
+        </p>
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=Brais-T&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Brais-T)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Brais-T&theme=material-palenight)](https://github.com/Brais-T)
+</div>
