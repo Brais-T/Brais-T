@@ -46,9 +46,9 @@
       </p>
         <p align="center">
           <a href="https://github.com/Brais-T/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1999azzar&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brais-T&theme=gruvbox&layout=compact&hide_border=true"
           alt="Brais-T :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1999azzar&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Brais-T&theme=gruvbox&layout=compact&hide_border=true"
           alt="Brais-T :: Top Langs by commit" />
           </a>
         </p>
