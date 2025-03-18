@@ -54,6 +54,6 @@
         </p>
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=Brais-T&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Brais-T)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Brais-T&theme=material-palenight)](https://github.com/Brais-T)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Brais-T&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 </div>
