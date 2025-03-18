@@ -39,21 +39,12 @@
 ---
 
 <h2>Lenguajes:</h2> 
-  <p align="center">
-        <a href="https://github.com/Brais-T/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brais-T&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-          alt="Brais-T :: overall Top Langs " /></a>
-      </p>
-        <p align="center">
-          <a href="https://github.com/Brais-T/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brais-T&theme=gruvbox&layout=compact&hide_border=true"
-          alt="Brais-T :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Brais-T&theme=gruvbox&layout=compact&hide_border=true"
-          alt="Brais-T :: Top Langs by commit" />
-          </a>
-        </p>
-<h2>Github stats:</h2> 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Brais-T&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<h2>Github stats:</h2> 
+
+![](https://github-readme-stats.vercel.app/api?username=Brais-T&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 
 </div>
