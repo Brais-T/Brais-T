@@ -38,7 +38,13 @@
 
 ---
 
+<h2>Lenguajes:</h2> 
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Brais-T&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<h2>Github stats:</h2> 
+
+![](https://github-readme-stats.vercel.app/api?username=Brais-T&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 
 </div>
