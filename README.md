@@ -46,6 +46,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Brais-T&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Brais-T)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Brais)
 
 </div>
