@@ -46,6 +46,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Brais-T&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Brais)
+<p> <img src="https://wakatime.com/share/@Brais/8f5387e5-6197-4868-9225-d0b42312b764.svg" height="500"/> </p>
 
 </div>
