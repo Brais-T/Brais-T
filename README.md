@@ -49,5 +49,6 @@
 <p> <img src="https://wakatime.com/share/@Brais/8f5387e5-6197-4868-9225-d0b42312b764.svg" height="500"/> </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brais-T&layout=pie)](https://github.com/Brais-T/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brais-T&layout=donut)](https://github.com/Brais-T/github-readme-stats)
 
 </div>
