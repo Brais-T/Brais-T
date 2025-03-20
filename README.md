@@ -48,7 +48,7 @@
 
 <p> <img src="https://wakatime.com/share/@Brais/8f5387e5-6197-4868-9225-d0b42312b764.svg" height="500"/> </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brais-T&layout=pie)]
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brais-T&layout=donut)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brais-T&layout=pie)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brais-T&layout=donut)
 
 </div>
