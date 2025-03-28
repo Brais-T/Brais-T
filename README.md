@@ -37,7 +37,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
-
+<!--
 <h2>Lenguajes:</h2> 
 
 ESTO TENGO QUE COMPROBAR SI SOLO MARCA REPOS PUBLICOS
@@ -52,7 +52,7 @@ ESTO SE VA A QUEDAR OCULTO
 <p> <img src="https://wakatime.com/share/@Brais/8f5387e5-6197-4868-9225-d0b42312b764.svg" height="500"/> </p>
 
 -->
-
+<!--
 ESTO ES LO QUE QUIERO
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brais-T&layout=pie)
 -->
